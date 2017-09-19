@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-family: "Optima", "Lucida Grande", "Lucida Sans Unicode", "Verdana", "Helvetica", "Arial", sans-serif;
+    text-shadow:3px 2px #191219;
+}
+
+.Engraving {
+    background-color: #2F222F;
+    display: block;
+    margin: auto;
+    
+}
+
+.poem {
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+    font-style: italic;
+    border-width: 3px;
+    border-style: inset; 
+    border-color:black;
+    background:#2F222F;
+    padding: 10px;
+    display: inline-block;
+}
+
+a {
+    color:#f5e5fa;
+
+}
+a:visited {
+    color:#f5e5fa;
+}
+
+body {
+    background-color: #412e41; 
+    color:white;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans","Tahoma",sans-serif;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Myriad", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    border-top: 2px solid black;
+    border-bottom: 1px solid white;
+    padding-top:10px;
+    padding-bottom:5px;
+}
+
+div {
+    float:right;
+    margin: 15px;
+    border: 2px solid black;
+    text-align: center;
+}
+footer {
+    background-color: black;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+}
+
+#continue{
+    color: #990000;
+}
